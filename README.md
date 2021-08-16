@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **at 4Geeks Academy**
 - 🌱 Also I'm learning machine learning
-- ⚡ I like
+- ⚡ I like really much technology and falling in love with programming.
 
 - 📫 How to reach me **jgalvezdominguez@gmail.com**
 

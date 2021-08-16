@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jorge</h1>
 <h3 align="center">A passionate full-stack developer student and electronic designer </h3>
 
-<p align="left"> <img src="" alt="Jorge-GD" /> </p>
-
 - 🌱 I’m currently learning **at 4Geeks Academy**
 - 🌱 Also I'm learning machine learning
 - ⚡ I like really much technology and falling in love with programming.

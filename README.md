@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack junior developer and electronic designer </h3>
 
 
-- 🌱 Also I'm learning about Machine Learning
+- 🌱 Also I'm learning about Machine Learning & node.js
 - ⚡ I like really much technology and falling in love with programming.
 
 - 📫 How to reach me **jgalvezdominguez@gmail.com**

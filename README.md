@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jorge</h1>
-<h3 align="center">A passionate full-stack developer student and electronic designer </h3>
+<h3 align="center">A passionate full-stack junior developer and electronic designer </h3>
 
-- 🌱 Also I'm learning machine learning
+
+- 🌱 Also I'm learning about Machine Learning
 - ⚡ I like really much technology and falling in love with programming.
 
 - 📫 How to reach me **jgalvezdominguez@gmail.com**
